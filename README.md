@@ -1,5 +1,5 @@
 # 470 Homework 1
 
-More detail at [Subheading].
+More detail at [here](Subheading).
 
 ##Subheading
